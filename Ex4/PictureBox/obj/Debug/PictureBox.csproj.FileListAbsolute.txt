@@ -1,0 +1,18 @@
+c:\users\амина\documents\visual studio 2017\Projects\PictureBox\PictureBox\obj\Debug\PictureBox.csprojResolveAssemblyReference.cache
+c:\users\амина\documents\visual studio 2017\Projects\PictureBox\PictureBox\obj\Debug\PictureBox.Form1.resources
+c:\users\амина\documents\visual studio 2017\Projects\PictureBox\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+c:\users\амина\documents\visual studio 2017\Projects\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.Cache
+C:\Users\Амина\Documents\Visual Studio 2017\Projects\PictureBox\PictureBox\bin\Debug\PictureBox.exe.config
+C:\Users\Амина\Documents\Visual Studio 2017\Projects\PictureBox\PictureBox\bin\Debug\PictureBox.exe
+C:\Users\Амина\Documents\Visual Studio 2017\Projects\PictureBox\PictureBox\bin\Debug\PictureBox.pdb
+C:\Users\Амина\Documents\Visual Studio 2017\Projects\PictureBox\PictureBox\obj\Debug\PictureBox.exe
+C:\Users\Амина\Documents\Visual Studio 2017\Projects\PictureBox\PictureBox\obj\Debug\PictureBox.pdb
+C:\Users\Амина\Desktop\Final\PictureBox\PictureBox\bin\Debug\PictureBox.exe.config
+C:\Users\Амина\Desktop\Final\PictureBox\PictureBox\bin\Debug\PictureBox.exe
+C:\Users\Амина\Desktop\Final\PictureBox\PictureBox\bin\Debug\PictureBox.pdb
+C:\Users\Амина\Desktop\Final\PictureBox\PictureBox\obj\Debug\PictureBox.csprojResolveAssemblyReference.cache
+C:\Users\Амина\Desktop\Final\PictureBox\PictureBox\obj\Debug\PictureBox.Form1.resources
+C:\Users\Амина\Desktop\Final\PictureBox\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+C:\Users\Амина\Desktop\Final\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.Cache
+C:\Users\Амина\Desktop\Final\PictureBox\PictureBox\obj\Debug\PictureBox.exe
+C:\Users\Амина\Desktop\Final\PictureBox\PictureBox\obj\Debug\PictureBox.pdb

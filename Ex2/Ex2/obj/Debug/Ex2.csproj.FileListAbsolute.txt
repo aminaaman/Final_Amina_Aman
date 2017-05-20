@@ -1,0 +1,18 @@
+c:\users\амина\documents\visual studio 2017\Projects\Ex2\Ex2\obj\Debug\Ex2.csprojResolveAssemblyReference.cache
+c:\users\амина\documents\visual studio 2017\Projects\Ex2\Ex2\obj\Debug\Ex2.Form1.resources
+c:\users\амина\documents\visual studio 2017\Projects\Ex2\Ex2\obj\Debug\Ex2.Properties.Resources.resources
+c:\users\амина\documents\visual studio 2017\Projects\Ex2\Ex2\obj\Debug\Ex2.csproj.GenerateResource.Cache
+c:\users\амина\documents\visual studio 2017\Projects\Ex2\Ex2\bin\Debug\Ex2.exe.config
+c:\users\амина\documents\visual studio 2017\Projects\Ex2\Ex2\bin\Debug\Ex2.exe
+c:\users\амина\documents\visual studio 2017\Projects\Ex2\Ex2\bin\Debug\Ex2.pdb
+c:\users\амина\documents\visual studio 2017\Projects\Ex2\Ex2\obj\Debug\Ex2.exe
+c:\users\амина\documents\visual studio 2017\Projects\Ex2\Ex2\obj\Debug\Ex2.pdb
+C:\Users\Амина\Desktop\Final\Ex2\Ex2\bin\Debug\Ex2.exe.config
+C:\Users\Амина\Desktop\Final\Ex2\Ex2\bin\Debug\Ex2.exe
+C:\Users\Амина\Desktop\Final\Ex2\Ex2\bin\Debug\Ex2.pdb
+C:\Users\Амина\Desktop\Final\Ex2\Ex2\obj\Debug\Ex2.csprojResolveAssemblyReference.cache
+C:\Users\Амина\Desktop\Final\Ex2\Ex2\obj\Debug\Ex2.Form1.resources
+C:\Users\Амина\Desktop\Final\Ex2\Ex2\obj\Debug\Ex2.Properties.Resources.resources
+C:\Users\Амина\Desktop\Final\Ex2\Ex2\obj\Debug\Ex2.csproj.GenerateResource.Cache
+C:\Users\Амина\Desktop\Final\Ex2\Ex2\obj\Debug\Ex2.exe
+C:\Users\Амина\Desktop\Final\Ex2\Ex2\obj\Debug\Ex2.pdb
